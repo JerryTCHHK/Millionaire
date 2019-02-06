@@ -1,0 +1,29 @@
+2018-12-13 22:46:07,574 [1] INFO Millionaire.mainForm - Home UI is set 
+2018-12-13 22:46:07,892 [1] INFO Millionaire.mainForm - Game UI is set 
+2018-12-13 22:46:07,984 [1] INFO Millionaire.mainForm - Result UI is set
+2018-12-13 22:46:10,994 [1] INFO Millionaire.mainForm - Game Start
+2018-12-13 22:46:10,995 [1] INFO Millionaire.mainForm - Numeber of player : 1
+2018-12-13 22:46:10,995 [1] INFO Millionaire.mainForm - Question Set : Simple Mathematics
+2018-12-13 22:46:10,995 [1] INFO Millionaire.mainForm - Number of Audience : 100
+2018-12-13 22:47:01,103 [1] INFO Millionaire.mainForm - Game Ended.
+2018-12-13 22:47:13,728 [1] INFO Millionaire.UI.ResultUI - C:\Users\Jerry Tse\Desktop\Game-Report.pdf is created
+2018-12-23 22:46:58,234 [1] INFO Millionaire.mainForm - Home UI is set 
+2018-12-23 22:46:58,751 [1] INFO Millionaire.mainForm - Game UI is set 
+2018-12-23 22:46:58,892 [1] INFO Millionaire.mainForm - Result UI is set
+2018-12-23 22:47:01,923 [1] INFO Millionaire.mainForm - Game Start
+2018-12-23 22:47:01,923 [1] INFO Millionaire.mainForm - Numeber of player : 1
+2018-12-23 22:47:01,923 [1] INFO Millionaire.mainForm - Question Set : Simple Mathematics
+2018-12-23 22:47:01,923 [1] INFO Millionaire.mainForm - Number of Audience : 100
+2018-12-23 22:48:41,069 [1] INFO Millionaire.mainForm - Game Ended.
+2018-12-23 22:49:12,576 [1] INFO Millionaire.UI.ResultUI - C:\Users\Jerry Tse\Desktop\Game-Report-1.pdf is created
+2018-12-23 22:49:14,534 [1] INFO Millionaire.mainForm - Home UI is set 
+2018-12-23 22:49:14,562 [1] INFO Millionaire.mainForm - Game UI is set 
+2018-12-23 22:49:14,623 [1] INFO Millionaire.mainForm - Result UI is set
+2019-01-13 22:51:37,075 [1] INFO Millionaire.mainForm - Home UI is set 
+2019-01-13 22:51:38,571 [1] INFO Millionaire.mainForm - Game UI is set 
+2019-01-13 22:51:38,728 [1] INFO Millionaire.mainForm - Result UI is set
+2019-01-13 22:51:48,539 [1] INFO Millionaire.mainForm - Game Start
+2019-01-13 22:51:48,539 [1] INFO Millionaire.mainForm - Numeber of player : 4
+2019-01-13 22:51:48,539 [1] INFO Millionaire.mainForm - Question Set : Simple Mathematics
+2019-01-13 22:51:48,539 [1] INFO Millionaire.mainForm - Number of Audience : 100
+2019-01-13 22:52:53,093 [1] INFO Millionaire.mainForm - Game Ended.
